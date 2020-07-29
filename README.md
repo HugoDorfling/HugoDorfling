@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, i'm Hugo Dorfling 👋
 
-<!--
-**HugoDorfling/HugoDorfling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
 
-Here are some ideas to get you started:
+I care passionately about providing tangible results,
+without sacrificing artistry and 
+elegant design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I also really love the "abstract and logical universe of Computer Science".
+
+My persistent drive towards growth and knowledge motivates me to
+learn new technologies,
+adapt and 
+grow,
+with a tremendous pace!
+- I really value progress.
+
+I am focused on leaving a legacy and living well examined life.
