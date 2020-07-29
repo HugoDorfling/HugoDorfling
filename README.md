@@ -17,7 +17,7 @@ with a tremendous pace!
 
 I am focused on leaving a legacy and living well examined life.
 
-# Tech Focus / Exposure (Current main exposure and focus in bold):
+### Tech Focus / Exposure (Current main exposure and focus in bold):
 Programming Languages: **C**, C++, **C#**, **Python**, Java, PHP, **HTML**, **CSS**, **JavaScript / TypeScript**, **SQL**, JQuery
 Frontend Frameworks: ReactJS (Redux), Angular
 Backend Frameworks: NodeJS, **ASP.NET Core MVC**
