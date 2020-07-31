@@ -1,6 +1,6 @@
 # Hey, i'm Hugo Dorfling 👋
 
-*Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
+## *Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
 
 I care passionately about providing tangible results,
 without sacrificing artistry and 
