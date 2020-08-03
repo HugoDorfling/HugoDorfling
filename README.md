@@ -1,4 +1,4 @@
-# Hey, i'm Hugo Dorfling 👋
+# Hi there 👋
 
 ![Image of Hugo Dorfling Mindset](https://media-exp1.licdn.com/dms/image/C4E16AQFsYyCdO-hniA/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=xu9KUSvCyufeKfx720EmhseBXBIxdv3WfGhMW5DLOQs)
 
