@@ -22,5 +22,5 @@ I am focused on leaving a legacy and living well examined life.
 ### Tech Focus / Exposure (Current main exposure and focus in bold):
 - Programming Languages: **C**, **C#**,**HTML**, **CSS**, **JavaScript / TypeScript**, **SQL**, PHP
 - Frontend Frameworks: **Angular**, **Bootstrap**, JQuery, ReactJS (Redux)
-- Backend Frameworks: **ASP.NET MVC**, NodeJS
-- Other: **Linux**, Xamarin, Amazon Web Services (AWS), GraphQL / REST, Wordpress, Unity (Game Development)
+- Backend Frameworks: **.NET Core MVC**, NodeJS
+- Other: **Linux**, **Amazon Web Services (AWS)**, Xamarin, GraphQL / REST, Wordpress, Unity (Game Development)
