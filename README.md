@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Image of Hugo Dorfling Mindset](https://www.notion.so/Personal-Home-699f74fee0204844a1b614ed4943c277#853354b8bfee4277880de1e34f3d93bf)
+![Image of Hugo Dorfling Mindset](https://ibb.co/cbNXCwm)
 
 ## *Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
 
