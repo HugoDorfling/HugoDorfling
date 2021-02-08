@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Image of Hugo Dorfling Mindset](https://media-exp1.licdn.com/dms/image/C4E16AQFsYyCdO-hniA/profile-displaybackgroundimage-shrink_350_1400/0?e=1608163200&v=beta&t=5yw8h-HwuXKXPD3Ok27ZeyINmRDaLmAVVBnQVLe6t2E)
+![Image of Hugo Dorfling Mindset](https://www.notion.so/Personal-Home-699f74fee0204844a1b614ed4943c277#853354b8bfee4277880de1e34f3d93bf)
 
 ## *Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
 
