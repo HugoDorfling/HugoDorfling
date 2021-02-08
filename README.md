@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Image of Hugo Dorfling Mindset](https://ibb.co/cbNXCwm)
+![Image of Hugo Dorfling Mindset](https://i.ibb.co/Xyzk3Dw/1590896866260.jpg)
 
 ## *Dedicated to creatively analyse, design and invent technology solutions that solve real problems.* 
 
