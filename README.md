@@ -12,4 +12,4 @@ without sacrificing artistry and elegant design.
 - Programming Languages: **JavaScript / TypeScript**, SQL, C#, Python, C,  
 - Frontend: **ReactJS**, **Redux / RTK**, **MUI**, **CSS-in-JS (Styled Components / Emotion)**, NextJS, Bootstrap, TailwindCSS, JQuery, Angular, 
 - Backend: **NodeJS (Express)**, .NET Core
-- Other: Amazon Web Services (AWS), GraphQL, HTML, CSS, BitBucket/GitHub, Git, React Native, Unity (Game Development), Three.JS (React Three Fiber), Infrastructure As Code (Terraform, CloudFormation), DevOps (CI/CD), Docker
+- Other: Amazon Web Services (AWS), GraphQL, HTML, CSS, BitBucket/GitHub, Git, React Native, Unity (Game Development), Three.JS (React Three Fiber), Infrastructure As Code (Terraform, CloudFormation), DevOps (CI/CD), Docker, p5.js
