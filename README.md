@@ -9,7 +9,15 @@ without sacrificing artistry and elegant design.
 
 
 ### Tech Focus / Exposure (Current main exposure and focus, in bold):
-- Programming Languages: **JavaScript / TypeScript**, C#, Python, C++, C,  
-- Frontend: **ReactJS**, **Redux / RTK**, **MUI**, **CSS-in-JS (Styled Components / Emotion)**, NextJS, Bootstrap, TailwindCSS, JQuery, Angular, 
-- Backend: **NodeJS (Express)**, .NET Core, 
-- Other: **Amazon Web Services (AWS)**, **Prisma**, **GraphQL**, **Jest**, **Formik**, HTML, CSS, BitBucket/GitHub, Git, React Native, Unity (Game Development), Three.JS (React Three Fiber), Infrastructure As Code (Terraform, CloudFormation), DevOps (CI/CD), Docker, p5.js, SQL
+- Programming Languages: **C#**, JavaScript / TypeScript, Python, C++, C, Kotlin
+- Frontend: **Angular**, ReactJS (Redux / RTK, MUI)
+- Backend: **ASP.NET Core**, NodeJS (Express, NestJS),
+- Infrastructure: **Azure**, Amazon Web Services (AWS)
+- Infrastructure As Code: **Pulumi**, Terraform, CloudFormation
+- DevOps: **GitHub Actions**, Bitbucket pipelines, SonarCloud, Docker
+- Testing: **XUnit**, Cypress, Jest
+- ORM: **Entity Framework Core**, Prisma
+- Database: **PostgreSQL**, MySQL
+- Mobile: **Android (Kotlin Compose Multiplatform)**, React Native, still to explore .NET MAUI
+- Other: API (GraphQL with Apollo, REST), Forms (Formik), HTML, CSS, Source Control (Git, BitBucket/GitHub)
+- Hobby: Unity (Game Development), Three.JS (React Three Fiber), p5.js
