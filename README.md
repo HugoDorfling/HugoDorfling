@@ -20,5 +20,5 @@ without sacrificing artistry and elegant design.
 - Database: **PostgreSQL**, MySQL
 - Mobile: **Android (Kotlin Compose Multiplatform)**, React Native, still to explore .NET MAUI
 - System Design: **Microservices**,  Event-Driven Architecture, Domain-Driven Design
-- Other: API (GraphQL with Apollo, REST, Websockets with Socket.io), Messaging (SQS, RabbitMQ), Forms (Formik), HTML, CSS, Source Control (Git, BitBucket/GitHub)
+- Other: API (GraphQL with Apollo, REST, Websockets with Socket.io, gRPC), Messaging (SQS, RabbitMQ), Forms (Formik), HTML, CSS, Source Control (Git, BitBucket/GitHub)
 - Hobby: Unity (Game Development), Three.JS (React Three Fiber), p5.js
